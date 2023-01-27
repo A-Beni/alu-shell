@@ -1,1 +1,1 @@
-a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+Display current directory contents in a long format

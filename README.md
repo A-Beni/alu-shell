@@ -1,1 +1,1 @@
-This is a repository that contains bash sripts
+This is a directory for processes and signals
